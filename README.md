@@ -8,7 +8,7 @@ See [here](https://gist.github.com/caseywatts/c0cec1f89ccdb8b469b1) for an expla
 
 ## How do I install this bookmarklet?
 * Open the JavaScript code [here](https://raw.githubusercontent.com/darensin01/flat-selection/main/bto.js).
-* Copy the entire code based (CTRL + A, CTRL + C on Windows).
+* Copy the entire codebase (CTRL + A, CTRL + C on Windows).
 * Open your browser's bookmark manager (CTRL + Shift + O on Windows and Chrome).
 * Create a new bookmark and paste the code above (CTRL + V) as the bookmark's link/URL.
 * Name the new bookmark whatever you want.
