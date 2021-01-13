@@ -1,4 +1,4 @@
-# Convenient bookmarklet to find out the size and price of flats available for BTO selection.
+# Convenient bookmarklet to find out the size and price of flats available for BTO selection
 
 ## What is BTO?
 See [here](https://en.wikipedia.org/wiki/Build_to_order_(HDB)) for an explanation.
