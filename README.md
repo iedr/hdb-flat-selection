@@ -25,7 +25,7 @@ See [here](https://gist.github.com/caseywatts/c0cec1f89ccdb8b469b1) for an expla
 
 3. You should see a list of flats available for selection as shown below.
 
-<img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss1.PNG" width="350px"></img>
+> <img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss1.PNG" width="350px"></img>
 
 4. Mouseover the unit of interest to reveal the size (in square meters) and its price (in Singapore Dollars), as shown below.
 
