@@ -15,12 +15,18 @@ See [here](https://gist.github.com/caseywatts/c0cec1f89ccdb8b469b1) for an expla
 * Follow the steps below to use the bookmarklet.
 
 ## Steps
-* From the [Flats Available for Selection page](https://services2.hdb.gov.sg/webapp/BP13AWFlatAvail/BP13SEstateSummary?sel=BTO), select a project.
-* Select a block that is available for selection.
-* There will be a list of flats available for selection (see [here](https://github.com/darensin01/flat-selection/blob/main/screenshots/ss1.PNG)).
-* Mouseover the unit of interest to reveal the size (in square meters) and its price (in Singapore Dollars). See [here](https://github.com/darensin01/flat-selection/blob/main/screenshots/ss2.png).
-* Use the bookmarklet to open a new window that displays all the mouseover information.
-* You can also sort the information by price, sqm, price per sqm etc.
-* A pop-up like the one below should appear.
+<img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss4.PNG" width="1000px"></img>
+* From the [Flats Available for Selection page](https://services2.hdb.gov.sg/webapp/BP13AWFlatAvail/BP13SEstateSummary?sel=BTO) as shown above, select a project (e.g. "4-room").
 
-<img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss3.PNG" width="350px" alt="Screenshot of result popup window"></img>
+<img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss5.PNG" width="1000px"></img>
+* For the project selected as shown above, select a block that is available for selection (e.g. 535C).
+
+<img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss1.PNG" width="350px"></img>
+* You should see a list of flats available for selection as shown above.
+
+<img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss2.png" width="350px"></img>
+* Mouseover the unit of interest to reveal the size (in square meters) and its price (in Singapore Dollars), as shown above.
+
+<img src="https://github.com/darensin01/flat-selection/blob/main/screenshots/ss3.PNG" width="350px"></img>
+* Use the bookmarklet to open a new window that displays all the mouseover information, as shown above.
+* You can sort the information by price, sqm, price per sqm etc.
