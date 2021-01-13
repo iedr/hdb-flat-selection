@@ -3,7 +3,7 @@
 ## What is BTO?
 See <a href="https://en.wikipedia.org/wiki/Build_to_order_(HDB)" target="_blank">here</a> for an explanation.
 
-## What is a bookmarklet and how to create one?
+## What is a bookmarklet?
 See <a href="https://gist.github.com/caseywatts/c0cec1f89ccdb8b469b1" target="_blank">here</a> for an explanation.
 
 ## How do I install this bookmarklet?
