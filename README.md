@@ -17,7 +17,7 @@ See [here](https://gist.github.com/caseywatts/c0cec1f89ccdb8b469b1) for an expla
 ## Steps
 * From the [Flats Available for Selection page](https://services2.hdb.gov.sg/webapp/BP13AWFlatAvail/BP13SEstateSummary?sel=BTO), select a project.
 * Select a block that is available for selection.
-* There will be a list of flats available for selection (see [here](https://github.com/darensin01/flat-selection/blob/main/screenshots/ss1.PNG")).
+* There will be a list of flats available for selection (see [here](https://github.com/darensin01/flat-selection/blob/main/screenshots/ss1.PNG)).
 * Mouseover the unit of interest to reveal the size (in square meters) and its price (in Singapore Dollars). See [here](https://github.com/darensin01/flat-selection/blob/main/screenshots/ss2.png).
 * Use the bookmarklet to open a new window that displays all the mouseover information.
 * You can also sort the information by price, sqm, price per sqm etc.
